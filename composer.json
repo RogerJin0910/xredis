@@ -1,0 +1,21 @@
+{
+    "name": "XRedis",
+    "description": "Provide a convenient way to use Redis in PHP.",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^5.5,<5.8",
+        "predis/predis": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "athrunj\\xredis\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "athrunj",
+            "email": "jinjiajun0910@126.com"
+        }
+    ]
+}
