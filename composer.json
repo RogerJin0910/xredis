@@ -1,5 +1,5 @@
 {
-    "name": "athrunj/XRedis",
+    "name": "athrunj/xredis",
     "description": "Provide a convenient way to use Redis in PHP.",
     "type": "library",
     "require": {
