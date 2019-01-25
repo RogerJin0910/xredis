@@ -1,5 +1,5 @@
 {
-    "name": "XRedis",
+    "name": "Xtra-Redis",
     "description": "Provide a convenient way to use Redis in PHP.",
     "type": "library",
     "require": {
